@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTest01", "ModbusTest01\ModbusTest01.csproj", "{58FB2C67-5EB0-41C6-A150-556FAACBC073}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmartInverterTest1", "..\SmartInverter\SmartInverterTest1\SmartInverterTest1.csproj", "{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Debug|x86.Build.0 = Debug|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Release|x86.ActiveCfg = Release|Any CPU
+		{58FB2C67-5EB0-41C6-A150-556FAACBC073}.Release|x86.Build.0 = Release|Any CPU
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Debug|x86.ActiveCfg = Debug|x86
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Debug|x86.Build.0 = Debug|x86
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Release|x86.ActiveCfg = Release|x86
+		{14C1B5ED-C6FA-44EC-AD3F-55C9139E2B8C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD848BA-27EC-4D6B-985C-AA55AA25AD8D}
+	EndGlobalSection
+EndGlobal
